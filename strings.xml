@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TuitionMe</string>
+    <string name="amount_rewarded_from_fafsa">Amount rewarded from Fafsa:</string>
+    <string name="amount_rewarded_from_tap">Amount rewarded from TAP:</string>
+    <string name="amount_of_loans_owned">Amount of loans owned:</string>
+    <string name="fafsa_value">100000</string>
+    <string name="tap_value">100000</string>
+    <string name="loan_value">100000</string>
+    <string name="buttonNext">Next</string>
+</resources>
